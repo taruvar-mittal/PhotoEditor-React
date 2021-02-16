@@ -1,9 +1,9 @@
 import React from 'react';
 
-function SidebarItem() {
+function SidebarItem({ name }) {
     return (
         <button className="sidebar-item">
-            Sidebar Item
+           { name }
         </button>
     )
 }
