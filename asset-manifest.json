@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PhotoEditor-React/static/css/main.202777c0.chunk.css",
+    "main.js": "/PhotoEditor-React/static/js/main.f41ce572.chunk.js",
+    "main.js.map": "/PhotoEditor-React/static/js/main.f41ce572.chunk.js.map",
+    "runtime-main.js": "/PhotoEditor-React/static/js/runtime-main.5309e09e.js",
+    "runtime-main.js.map": "/PhotoEditor-React/static/js/runtime-main.5309e09e.js.map",
+    "static/js/2.30d2136f.chunk.js": "/PhotoEditor-React/static/js/2.30d2136f.chunk.js",
+    "static/js/2.30d2136f.chunk.js.map": "/PhotoEditor-React/static/js/2.30d2136f.chunk.js.map",
+    "index.html": "/PhotoEditor-React/index.html",
+    "static/css/main.202777c0.chunk.css.map": "/PhotoEditor-React/static/css/main.202777c0.chunk.css.map",
+    "static/js/2.30d2136f.chunk.js.LICENSE.txt": "/PhotoEditor-React/static/js/2.30d2136f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5309e09e.js",
+    "static/js/2.30d2136f.chunk.js",
+    "static/css/main.202777c0.chunk.css",
+    "static/js/main.f41ce572.chunk.js"
+  ]
+}
